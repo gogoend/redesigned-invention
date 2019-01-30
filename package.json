@@ -1,0 +1,11 @@
+{
+  "name": "redesigned-invention",
+  "version": "1.0.0",
+  "description": "redesigned-invention",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "gogoend",
+  "license": "ISC"
+}
